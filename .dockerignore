@@ -1,7 +1,0 @@
-.git
-.idea
-.vscode
-.venv_pdf
-*.log
-tmp
-bin
